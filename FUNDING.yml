@@ -1,0 +1,7 @@
+# Helios Protocol funding sources
+# Renders the "Sponsor" button on every repo in the heliosproto org.
+# Per-repo FUNDING.yml in any repo will override this default.
+
+custom:
+  - https://grantfox.xyz
+  - https://www.drips.network/wave/stellar
